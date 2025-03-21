@@ -4,12 +4,18 @@ Dataset: customer_data.csv
 Notebook: customer-churn-prediction-retention.ipynb
 Visualization: churn1.twbx (Tableau)
 
-  **📌 Key Data Analysis Skills Applied**
+  **📌 Key Data Analysis Skills Applied**:
+
 ✅ Data Cleaning & Preprocessing – Handling missing values, outlier detection, and data transformation
+
 ✅ Exploratory Data Analysis (EDA) – Identifying trends, patterns, and correlations using visualizations
+
 ✅ Feature Engineering & Selection – Creating and selecting relevant features to improve model performance
+
 ✅ Statistical Analysis – Hypothesis testing, correlation analysis, and distribution assessment
+
 ✅ Predictive Modeling – Implementing machine learning algorithms to forecast churn
+
 ✅ Data Visualization – Presenting insights effectively using Power BI/Tableau
 
 **This project utilizes Power BI for data visualization and analysis**
