@@ -1,4 +1,4 @@
-  **Customer Churn Prediction & Retention**
+  **Customer Churn Prediction & Retention**:
 This project analyzes customer churn using Python and machine learning, leveraging data analysis techniques to uncover insights and improve customer retention strategies.
 Dataset: customer_data.csv
 Notebook: customer-churn-prediction-retention.ipynb
